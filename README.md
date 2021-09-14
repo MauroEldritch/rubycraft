@@ -9,4 +9,4 @@ Each tool shared on this talk is available in my repos. Check the slides of your
 ## Presentations
 |#| Date | Conference |  Link to Video | Link to Slides |
 |---|---|---|---|---|
-|1|SEP-2021|Ruby Kaigi| - | - |
+|1|SEP-2021|Ruby Kaigi| https://www.youtube.com/watch?v=LIECErdtTDc | https://docs.google.com/presentation/d/1Rnqma2C2G4ubAw6SHv7qDBALUYIk8V1sc3p9Y0NcgX4/edit?usp=sharing |
